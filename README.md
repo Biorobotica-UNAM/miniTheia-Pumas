@@ -1,2 +1,2 @@
 # miniTheia-Pumas
-# miniTheia-Pumas
+# CLIP+DINO+fastSAM
